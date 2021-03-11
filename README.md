@@ -1,7 +1,7 @@
 # Crawler
 
 ## STEP 1 - 민원 데이터 
-  * ![세올전자민원창구(링크)] (https://dongjak.eminwon.seoul.kr/emwp/gov/mogaha/ntis/web/emwp/cmmpotal/action/EmwpMainMgtAction.do)
+  * ![세올전자민원창구(링크)] ( https://dongjak.eminwon.seoul.kr/emwp/gov/mogaha/ntis/web/emwp/cmmpotal/action/EmwpMainMgtAction.do)
  
  ## STEP 2 - Chrome Driver 설치 방법 
  * Chrome 버전 확인 - (설정 - Chrome - Chrome 정보 - Chrome 버젼 확인)
